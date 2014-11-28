@@ -1,0 +1,17 @@
+___awdiv: CODE, 382 0 93
+exp@coeff: STRING, 184 0 30
+_select_chip: CODE, 535 0 25
+__stringtab: STRING, 60 0 6
+__stringdata: STRING, 241 0 7
+__powers_: STRING, 145 0 39
+_dpowers: STRING, 66 0 40
+_buf_wait: CODE, 629 0 5
+_ConfigureOscillator: CODE, 621 0 8
+_main: CODE, 248 0 134
+__npowers_: STRING, 106 0 39
+_InitApp: CODE, 577 0 14
+__initialization: CODE, 21 0 35
+_isr: CODE, 602 0 11
+log@coeff: STRING, 214 0 27
+_init_SPI: CODE, 591 0 11
+Total: 524

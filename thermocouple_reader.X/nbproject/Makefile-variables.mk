@@ -1,0 +1,83 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# HT_PIC16F54 configuration
+CND_ARTIFACT_DIR_HT_PIC16F54=dist/HT_PIC16F54/production
+CND_ARTIFACT_NAME_HT_PIC16F54=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_HT_PIC16F54=dist/HT_PIC16F54/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_HT_PIC16F54=${CND_DISTDIR}/HT_PIC16F54/package
+CND_PACKAGE_NAME_HT_PIC16F54=thermocouplereader.x.tar
+CND_PACKAGE_PATH_HT_PIC16F54=${CND_DISTDIR}/HT_PIC16F54/package/thermocouplereader.x.tar
+# XC8_PIC16F54 configuration
+CND_ARTIFACT_DIR_XC8_PIC16F54=dist/XC8_PIC16F54/production
+CND_ARTIFACT_NAME_XC8_PIC16F54=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_XC8_PIC16F54=dist/XC8_PIC16F54/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_XC8_PIC16F54=${CND_DISTDIR}/XC8_PIC16F54/package
+CND_PACKAGE_NAME_XC8_PIC16F54=thermocouplereader.x.tar
+CND_PACKAGE_PATH_XC8_PIC16F54=${CND_DISTDIR}/XC8_PIC16F54/package/thermocouplereader.x.tar
+# HT_PIC16F785 configuration
+CND_ARTIFACT_DIR_HT_PIC16F785=dist/HT_PIC16F785/production
+CND_ARTIFACT_NAME_HT_PIC16F785=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_HT_PIC16F785=dist/HT_PIC16F785/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_HT_PIC16F785=${CND_DISTDIR}/HT_PIC16F785/package
+CND_PACKAGE_NAME_HT_PIC16F785=thermocouplereader.x.tar
+CND_PACKAGE_PATH_HT_PIC16F785=${CND_DISTDIR}/HT_PIC16F785/package/thermocouplereader.x.tar
+# XC8_PIC16F785 configuration
+CND_ARTIFACT_DIR_XC8_PIC16F785=dist/XC8_PIC16F785/production
+CND_ARTIFACT_NAME_XC8_PIC16F785=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_XC8_PIC16F785=dist/XC8_PIC16F785/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_XC8_PIC16F785=${CND_DISTDIR}/XC8_PIC16F785/package
+CND_PACKAGE_NAME_XC8_PIC16F785=thermocouplereader.x.tar
+CND_PACKAGE_PATH_XC8_PIC16F785=${CND_DISTDIR}/XC8_PIC16F785/package/thermocouplereader.x.tar
+# HT_PIC16F690 configuration
+CND_ARTIFACT_DIR_HT_PIC16F690=dist/HT_PIC16F690/production
+CND_ARTIFACT_NAME_HT_PIC16F690=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_HT_PIC16F690=dist/HT_PIC16F690/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_HT_PIC16F690=${CND_DISTDIR}/HT_PIC16F690/package
+CND_PACKAGE_NAME_HT_PIC16F690=thermocouplereader.x.tar
+CND_PACKAGE_PATH_HT_PIC16F690=${CND_DISTDIR}/HT_PIC16F690/package/thermocouplereader.x.tar
+# XC8_PIC16F690 configuration
+CND_ARTIFACT_DIR_XC8_PIC16F690=dist/XC8_PIC16F690/production
+CND_ARTIFACT_NAME_XC8_PIC16F690=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_XC8_PIC16F690=dist/XC8_PIC16F690/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_XC8_PIC16F690=${CND_DISTDIR}/XC8_PIC16F690/package
+CND_PACKAGE_NAME_XC8_PIC16F690=thermocouplereader.x.tar
+CND_PACKAGE_PATH_XC8_PIC16F690=${CND_DISTDIR}/XC8_PIC16F690/package/thermocouplereader.x.tar
+# HT_PIC16F1947 configuration
+CND_ARTIFACT_DIR_HT_PIC16F1947=dist/HT_PIC16F1947/production
+CND_ARTIFACT_NAME_HT_PIC16F1947=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_HT_PIC16F1947=dist/HT_PIC16F1947/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_HT_PIC16F1947=${CND_DISTDIR}/HT_PIC16F1947/package
+CND_PACKAGE_NAME_HT_PIC16F1947=thermocouplereader.x.tar
+CND_PACKAGE_PATH_HT_PIC16F1947=${CND_DISTDIR}/HT_PIC16F1947/package/thermocouplereader.x.tar
+# XC8_PIC16F1947 configuration
+CND_ARTIFACT_DIR_XC8_PIC16F1947=dist/XC8_PIC16F1947/production
+CND_ARTIFACT_NAME_XC8_PIC16F1947=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_XC8_PIC16F1947=dist/XC8_PIC16F1947/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_XC8_PIC16F1947=${CND_DISTDIR}/XC8_PIC16F1947/package
+CND_PACKAGE_NAME_XC8_PIC16F1947=thermocouplereader.x.tar
+CND_PACKAGE_PATH_XC8_PIC16F1947=${CND_DISTDIR}/XC8_PIC16F1947/package/thermocouplereader.x.tar
+# HT_PIC16F1827 configuration
+CND_ARTIFACT_DIR_HT_PIC16F1827=dist/HT_PIC16F1827/production
+CND_ARTIFACT_NAME_HT_PIC16F1827=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_HT_PIC16F1827=dist/HT_PIC16F1827/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_HT_PIC16F1827=${CND_DISTDIR}/HT_PIC16F1827/package
+CND_PACKAGE_NAME_HT_PIC16F1827=thermocouplereader.x.tar
+CND_PACKAGE_PATH_HT_PIC16F1827=${CND_DISTDIR}/HT_PIC16F1827/package/thermocouplereader.x.tar
+# XC8_PIC16F1827 configuration
+CND_ARTIFACT_DIR_XC8_PIC16F1827=dist/XC8_PIC16F1827/production
+CND_ARTIFACT_NAME_XC8_PIC16F1827=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_XC8_PIC16F1827=dist/XC8_PIC16F1827/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_XC8_PIC16F1827=${CND_DISTDIR}/XC8_PIC16F1827/package
+CND_PACKAGE_NAME_XC8_PIC16F1827=thermocouplereader.x.tar
+CND_PACKAGE_PATH_XC8_PIC16F1827=${CND_DISTDIR}/XC8_PIC16F1827/package/thermocouplereader.x.tar
+# default configuration
+CND_ARTIFACT_DIR_default=dist/default/production
+CND_ARTIFACT_NAME_default=thermocouple_reader.X.production.hex
+CND_ARTIFACT_PATH_default=dist/default/production/thermocouple_reader.X.production.hex
+CND_PACKAGE_DIR_default=${CND_DISTDIR}/default/package
+CND_PACKAGE_NAME_default=thermocouplereader.x.tar
+CND_PACKAGE_PATH_default=${CND_DISTDIR}/default/package/thermocouplereader.x.tar
